@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is for learning purpose",
+  "keywords": [],
+  "homepage": "https://github.com/apurbat59/React#readme",
+  "bugs": {
+    "url": "https://github.com/apurbat59/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apurbat59/React.git"
+  },
+  "license": "ISC",
+  "author": "Apurba Thakur",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "jest"
+  }
+}
